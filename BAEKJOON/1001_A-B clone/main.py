@@ -1,3 +1,3 @@
 import sys
 
-input = sys.stdin.readlinev
+input = sys.stdin.readline
